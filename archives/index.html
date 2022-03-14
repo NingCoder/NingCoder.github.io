@@ -37,6 +37,8 @@
   
   
   
+    <link href="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.3.5/dist/jquery.fancybox.min.css" rel="stylesheet">
+  
   
 <meta name="generator" content="Hexo 5.4.1"></head>
 
@@ -219,7 +221,7 @@
   <div class="widget">
     <h3 class="widget-title">Archive</h3>
     <div class="widget-body">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/03/">March 2022</a><span class="archive-list-count">2</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2022/03/">March 2022</a><span class="archive-list-count">3</span></li></ul>
     </div>
   </div>
 
@@ -231,6 +233,21 @@
     <div class="widget-body">
       <ul class="recent-post-list list-unstyled no-thumbnail">
         
+          <li>
+            
+            <div class="item-inner">
+              <p class="item-category">
+                
+              </p>
+              <p class="item-title">
+                <a href="/2022/03/14/%E8%87%B4%E6%9C%AA%E6%9D%A5%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/" class="title">致未来女朋友的一封信</a>
+              </p>
+              <p class="item-date">
+                <time datetime="2022-03-14T02:25:26.000Z" itemprop="datePublished">2022-03-14</time>
+              </p>
+            </div>
+          </li>
+          
           <li>
             
             <div class="item-inner">
@@ -276,7 +293,7 @@
   	<article class="content article article-archives article-type-list" itemscope="">
 	    <header class="article-header">
 	      <h1 itemprop="title">Archive</h1>
-	      <p class="text-muted">Total 2 articles</p>
+	      <p class="text-muted">Total 3 articles</p>
 	    </header>
 	    <div class="article-body">
 	      
@@ -299,6 +316,16 @@
         <div id="collapse2022" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading2022">
         <div class="panel-body">
           <div class="collection">
+    
+    
+<a href="/2022/03/14/%E8%87%B4%E6%9C%AA%E6%9D%A5%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/" class="collection-item"   itemprop="url">
+  <time datetime="2022-03-14T02:25:26.000Z" itemprop="datePublished">2022-03-14</time>
+  <span>&nbsp;&nbsp;&nbsp;</span> 致未来女朋友的一封信
+</a>
+
+
+  
+    
     
     
 <a href="/2022/03/10/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%85%83%E5%AE%87%E5%AE%99/" class="collection-item"   itemprop="url">
@@ -374,6 +401,35 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
 
 
+
+  <script src="//cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.3.5/dist/jquery.fancybox.min.js"></script>
+  <script>
+  //利用 FancyBox 实现点击图片放大
+  $(document).ready(function() {
+    $('article img').not('[hidden]').not('.panel-body img').each(function() {
+      var $image = $(this);
+      var imageCaption = $image.attr('alt');
+      var $imageWrapLink = $image.parent('a');
+      if ($imageWrapLink.length < 1) {
+        var src = this.getAttribute('src');
+        var idx = src.lastIndexOf('?');
+        if (idx != -1) {
+          src = src.substring(0, idx);
+        }
+        $imageWrapLink = $image.wrap('<a href="' + src + '"></a>').parent('a');
+      }
+      $imageWrapLink.attr('data-fancybox', 'images');
+      if (imageCaption) {
+        $imageWrapLink.attr('data-caption', imageCaption);
+      }
+    });
+    $().fancybox({
+      selector: '[data-fancybox="images"]',
+      hash: false,
+      loop: false,
+    });
+  });
+  </script>
 
 
 
