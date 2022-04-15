@@ -353,6 +353,26 @@ App陆续在各大安卓应用商店重新上架，各项功能均可以正常�
                   
                 
                 
+  <div id="twikoo"></div>
+  <script type="text/javascript">
+    Fluid.utils.loadComments('#comments', function() {
+      Fluid.utils.createScript('https://cdn.jsdelivr.net/npm/twikoo@1/dist/twikoo.all.min.js', function() {
+        var options = Object.assign(
+          {"envId":"test-0gmggdda298c3aa6","region":"ap-guangzhou","path":"window.location.pathname"},
+          {
+            el: '#twikoo',
+            path: 'window.location.pathname',
+            onCommentLoaded: function() {
+              Fluid.plugins.initFancyBox('#twikoo .tk-content img:not(.tk-owo-emotion)');
+            }
+          }
+        )
+        twikoo.init(options)
+      });
+    });
+  </script>
+  <noscript>Please enable JavaScript to view the comments</noscript>
+
 
               </article>
             
@@ -415,6 +435,30 @@ App陆续在各大安卓应用商店重新上架，各项功能均可以正常�
      <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
   </div>
   
+  <div class="statistics">
+    
+    
+
+    
+      
+        <!-- 不蒜子统计PV -->
+        <span id="busuanzi_container_site_pv" style="display: none">
+            总访问量 
+            <span id="busuanzi_value_site_pv"></span>
+             次
+          </span>
+      
+      
+        <!-- 不蒜子统计UV -->
+        <span id="busuanzi_container_site_uv" style="display: none">
+            总访客数 
+            <span id="busuanzi_value_site_uv"></span>
+             人
+          </span>
+      
+    
+  </div>
+
 
   
 
@@ -472,6 +516,8 @@ App陆续在各大安卓应用商店重新上架，各项功能均可以正常�
   
 
 
+
+  <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
 
 
 
