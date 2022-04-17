@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/03/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very
+first post. Check <a href="https://hexo.io/docs/">documentation</a> for
+more info. If you get any problems when using Hexo, you can find the
+answer in <a
+href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or
+you can ask me on <a
+href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a
+href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>HelloWorld!</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>简单总结</title>
+    <url>/2022/04/11/%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/</url>
+    <content><![CDATA[<h1 id="学习记录">学习记录</h1>
+<h2 id="数学部分">数学部分</h2>
+<ul>
+<li>高数部分是快完成Task了</li>
+<li>这个月对于高数部分进行完成!</li>
+</ul>
+<h2 id="计算机专业课">计算机专业课</h2>
+<ul>
+<li>现在确实还没有开始一轮复习</li>
+<li>不过对于数据结构部分有一点简单的认识和了解</li>
+</ul>
+<h2 id="英语">英语</h2>
+<ul>
+<li>坚持每一天背单词</li>
+<li>也只有这些了</li>
+</ul>
+<h2 id="经济学专业课">经济学专业课</h2>
+<ul>
+<li>有点没有想到 挂科了 挺尴尬的 还是直接重修的那种课程!</li>
+<li>完成基本的60分就好了 希望下次注意一下吧!</li>
+</ul>
+<h1 id="计算机方面">计算机方面</h1>
+<h2 id="数据结构和算法">数据结构和算法</h2>
+<h3 id="数据结构">数据结构</h3>
+<ul>
+<li>链表 队列 栈</li>
+<li>树 图</li>
+<li>高级的数据结构
+<ul>
+<li>B/B+树</li>
+<li>并查集</li>
+<li>等</li>
+</ul></li>
+<li>补充知识</li>
+</ul>
+<h3 id="算法">算法</h3>
+<ul>
+<li>暴力枚举</li>
+<li>排序
+<ul>
+<li>冒泡 插入 希尔</li>
+<li>归并 快排</li>
+<li>堆排序 桶排序</li>
+</ul></li>
+<li>双指针</li>
+<li>回溯
+<ul>
+<li>全排列 下一个排列等</li>
+</ul></li>
+<li>贪心 (数学证明_没有证明的贪心 不是贪心__)</li>
+<li>DFS BFS</li>
+<li>等</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>23考研</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>年轻人的社交元宇宙</title>
+    <url>/2022/03/10/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%85%83%E5%AE%87%E5%AE%99/</url>
+    <content><![CDATA[<h1 id="年轻人的社交元宇宙">年轻人的社交元宇宙</h1>
+<p><a href="https://www.soulapp.cn/home">小站</a> ## 我们的口号 1.
+“还孤单一个人吗，快来soul银河寻找那个TA” 2.
+不约不恋不看脸，我们就单纯的聊聊天吧”</p>
+<h2 id="功能介绍">功能介绍</h2>
+<ol type="1">
+<li>瞬间广场——用户可以通过瞬间功能发表文字. 图片.
+视频和语音；Soul通过算法为用户推荐可能感兴趣的瞬间，用户可以对其他人发布感兴趣的内容进行评论和点赞。</li>
+<li>灵魂互动——系统为用户一键连接可能聊得来的人，在线实时聊天。</li>
+<li>语音互动——系统为用户匹配可能感兴趣的人，在线语音聊天。</li>
+<li>群聊派对——主题式多人语音群聊功能。用户可根据主题创建派对，或选择感兴趣的派对进行交流。</li>
+<li>脸基尼视频互动——系统为用户连接想要视频聊天的人，在线视频聊天</li>
+<li>Soul狼人——系统为用户提供的多人互动策略游戏</li>
+<li>校园吧——校园认证用户专属的交流空间 ## 发展历程</li>
+<li>2021年5月，Soul上线校园吧。</li>
+<li>2021年1月，Soul月活跃用户量突破3000万，成为行业同品类中日均DAU启动次数.
+日均发布率和Z世代用户渗透率最高的App之一。</li>
+<li>2020年10月，Soul首次登顶App Store社交榜。</li>
+<li>2020年8月，Soul推出群聊功能，群聊派对正式上线。</li>
+<li>2020年7月，Soul月活跃用户量突破2000万。</li>
+<li>2019年11月13日，Soul App在苹果App
+Store下架，对此，Soul做出回应：为提升用户体验，针对iOS端正在更新升级系统。
+2019年11月16日，Soul App 在 App
+Store恢复下载，各项功能均可以正常使用。</li>
+<li>2019年9月10日，Soul App重新上架苹果App
+Store，各项功能均可正常使用。Soul
+App表示，将继续投入大量精力，通过技术和人工手段完善内容治理。</li>
+<li>2019年8月28日，Soul
+App陆续在各大安卓应用商店重新上架，各项功能均可以正常使用。Soul表示，为了共创清朗和谐的线上空间，Soul审核团队将对用户内容进行更严格的审核和分发。同时SoulApp注册年龄需年满18
+周岁，针对存量青少年，Soul更新了青少年模式</li>
+<li>2019年6月28日，国家网信办通报了会同有关部门.
+针对网络音频乱象启动专项整治行动的相关情况，包括Soul
+在内的多款应用牵涉其中。当天，SoulApp在各大应用商店下架。
+对此，Soul回应称：“我们充分理解网络平台肩负的社会责任，为了维护健康的社交生态，Soul将配合有关部门深入自查自改，严格审核相关功能和内容，采取必要措施以完全符合所有相关法律法规要求。”</li>
+<li>2019年1月，自定义头像功能上线，让Souler做独一无二的自己。9月，脸基尼互动功能发布，开启视频社交新玩法。</li>
+<li>2018年12月，Soul月活跃用户量突破1000万。</li>
+<li>2018年6月，语音互动功能发布，Soul跻身95后最受欢迎的社交App之一。</li>
+<li>2017年11月，Soul推荐2.0功能上线，实现千人千面的广场和星球，Soul正式步入算法时代。</li>
+<li>2016年11月，Soul App 1.0 正式上线，通过种子用户们自发安利.
+口碑传播，注册用户快速增加。</li>
+<li>2016年，SoulApp产品正式上线。</li>
+<li>2015年6月，任意门科技有限公司在上海正式成立。
+2021年7月，Soul暂停上市。
+2021年，Soul作为深受Z世代年轻人喜爱的社交平台，迎合年轻人多元化的社交需求，联合美团推出剧本杀盲盒，并邀请《密室大逃脱大神版》中的CP蒲熠星.
+郭文韬作为美团剧本杀甄选官，一同打造剧本杀好本盲盒活动。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>不开心你就来Soul呀</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>致未来女朋友的一封信</title>
+    <url>/2022/03/14/%E8%87%B4%E6%9C%AA%E6%9D%A5%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="105ac743c87c391e3578f265490b6b12894827442c1991aac18670ce96b40140">2ce8f82d4ddd742b79da950c021d0f54892f2d7dc03086f98ef16230dcb7bbc7772f17acc90381bc759baef36aac89ece04de162753c3e2ffa16cd2ecfa21e20ac96eeac0a4dbb299ea072f0a85d954d07b02e60a16d1d6318621685506dd5a7e666c5c1fd9b69031b197da11ebff52ab071fed405818334dbf9a414ba023f4e68383d32c062140eec959dc9ce02c37d9b28d3e13ca77b9fbac213c11d6c17baa0aa7d35b95ad2279c25cbda5576cd0cdee2028ccbb22b253e24a10e536235add76cede38fadcef9aaa206fbcf3df6a78c5d99faf7ba36fe028528884d41af6d2e703b6d5ebca502efe9fbbf1d00925fa863b097b8ecf670fb283e358b159c8132c3d14c60a257c596ad10a3c96eba56c8cfd7b18024d394ce36808cc1e4e58138443b06adff9c8c0f13b0fe23c9fef60b552d37dbb70de8089285e05029593d0b9b5d9b56df1aa853d5fa08d13b19d048e02ba9d119b5db0a1087dade129368a70a932dddeddab1566741ddb99e51c9a2a14b63c8f7b3e45ad45d4901b29e292a8f528b3655a6d7af07a594ed8fb109c1e967e37f7583b09c72abd7ab1e91b07db2654e4bfc4501b25ed65f18928a08ab972424e9a8f5a3ac0a3d02c24e378d886bfc715c299fbad0435a473d51e6bd08746ab62278bc077063b79658e90ef73d466a58f529df8923b3978bd99beb18e5a49224682659110e61c124d4843b8bf0376b54761e237beaa940f04009af4d9511d4aae438fb9139195fe45a03475ed4e44a70d510c829b984fb7e143a97d99222e24dbffbfd7d1c4adba23b1987872387492407c40f235f4d85d94cb38a35ce58f58f7fb2bde6fccf0b8551932f80f56fd0be3562324de44eb53c8c8c8176af29a44a395951004460c4f5603803d57c9e2a87657919e85d99499a697e278bf29f220d77d044710005172a09ee66f5f70ec3d2223b0db263b9efb618ff0affbd1e4948df3aed9b03844a0b3f697ca15dcb5d7bbdf53116011064c5fb36ed845e87dc0e4bc0bafab999332cbf0625cbd2321d166dccab5b96af06937e9ffc310b0b23987b0ec7d3507882cb0d9b653b30ae8614daa015332082b0220b6bff21f37d55409759b309dedbee93638b6e0bb2f9921d18e082a567749946a42663567f9e06edbf62d0056deae06c0cd63368a413435e238642233e7eddb165ea3ba1a3a9857bc34230ea670460291cfcec6243580216d1f2169cf00395d476b812e6c6476143a40b3e3a1c818c15bc25d918251bb71965ccc5aa5d4914f4a9f885aa766a03be16e5bd1a1f14338523a5e63a64474eacfd916d644120d62d42154ab1d5751bad31ea5c2545314d3f693e379d6e5aa10849f003646a376cb00659327c5637324fc6d3bbf2f78fac729deab34f4c52de798747cc0353a70b59398be7a3960412ebcaf258198f3c3c5795d23fdc5494c7268de4e4cf1b84c5acb43948b5aae2e33724b99b863e2c7729b281421d680b97cf23679f1a07a8982ee1d0fad55c4ff586867410e7ec6ac78756de53648d57aedbae272008a7549a6890840d7bbc5e70a60197f656024b291fdf4fb51cb4d95e200419b06c23919058cda1eb0d40846787c3922111c116593ffd53921a5296a9de99d7ff54beb014fe2c6cb8977f2c165264026e006bc15de768075be476ff15fc4856b979382d68cad632f256cb2baff8ea4539f4bf9419018267c4fd69b1f34c3efb66135dfde550c557657f0b0fd4cab6b6c64fb44a4e9a35f32622580f0baf1e8b71d9ae4caf9301563e95f472fd13422edbcb9adffd427420944fb4a7943e4ba270d01bc827435323a439ec4bfae87bd325554ae8f8652149e95dc3197d5b90b5dfdb23b28e69a9ee8620fec6ce80695fc601f62565d17a6cb537273bb3f610f0d11a8da189f67865ea9143c663b4014fc3d349aa3461a05c008d82bd6474c438735415df4f97c9141869f5b2a81d935a75a8046739bcff049823f5ab45b5c99c86a3d1ce5ed29a892b83e13d50b9e6e85c76a18e12f72b5469981698ae1169d188db368b2512e32f24f85aac683911278c1b9f48f4a70e88ca1652229bdfaa618b9d3afe1668869e0dd8cce2704a2abf9b76545e78a2e12c6bb5356ef91080bc2c44a6294e9264a53b99f5c501220ea1934f3c5e75d263acd84c6f8b78af0120b905931d55eb68acd07f480b9e6a4ee3ac11004219051a7b1d14e2833e20878ca67b7445b6caea8f95f0d7907023bf8a176cd79bf1a43f86a9d99bcdf1b8b69694cea30cca43cc934458528c82664d76a14fafb6453a3993c1c3422746847210d3a06d4dd43caf3c997d84507026b568f4d21329e31a07a76bfc1a4cb94224419f5a5d97d08c2efc68bd41e341aef3b7c52a857e40987c3ae745207a4dd9ef9b78df425d4b01d22c76e274239da78096627e5226ead7cc57f5200b2fe467cf6eccdb6d76178f1e219f88ae9f1ec6356a1fe108c340539940db83888cd56d2a880928ea18abb3c518688a6ed0d67c1f97fbde6facc2020207f6d1a4b9feed2c399e8c9a39af4ab41232f9ec73e7a9d06f07fda06d0d7122bf2f3e340aa241394fc259d519156abd43d07cb16acec4d2c0cdc568557ca7cf8e8d3005b8c6505336a2919b5f60cc7df86fcd0e6c46c374f0a0598bd2d52d74464450551cbf68fdbeb91975d2204946c9384fa058c804433d8b9d25141d124254bb4822313d342e0b472495190453c8de2590af5cbfc44042e9bf4bdb8ef0f941e80f04925b885aae185d7242505d43ba5e7c989f79f677d1f340cfb56083e52f0db86335ec9bdea2bbc652d8dafea56339e04619042a1856e33de83cc66122c09785cb7fd93754f55ccfd38e9cee1e1aa61e0af776881591d113d045a1fc447bde200bcb725dd5e8243c5694917baffa0e134c53d0305d88ea979ff89e469d41aae709a61bee766443eb551f7954a08a67dd15d5de90e30acf53fd0e4f84825eebf19225966341b22d308b6f02ee3d19f5ccc856d82879e0fa3f8debbfc43c483fa77def8127d67ced5201205397f8433460ab0f13d69a9baa22565d3985f3944bcb05d7c81594dcb8a98e097905386648c47a798d5d43dec325fa3fda6d1b457b522acfcedd707af4a0a7aba36b6abd57bb23c5003247a31f9d1c1eb068c0e31e11e2d4bc50f103062e21efee9029db19e9c422c9df5d667834b8419b4cf1bd153df383415dd836e9d44b90ac870951a590f1faa21f4c95c6e955a7d3b38ad7096dc349992c6c57c0b545a653f4e009766eab0a4b769cf830b9f892924194d0dd1c3e5ffe705b0d4334680d6f72fbb9940bbe84fb9ff572a41d8521c06ca95144401b2366afb13896c3ddf087926e1c8578cfac3005e3cc120ed688a8e5ed1c26be1125cf56f6827e170a0ff9db02aa5237a3340d9bb09f6ae1dd0330593f7c63c2c55e12b290228bce1fa591f76e1916a7e94dfda32d1de8e7ad2d661b7089b24a9666788cbaea4534af39a8ebaeea9038bd9c7f7c8d4d7f092a17aa0d3a560191f8d87dcefb83b2b8bff12c64f5e291f5b8c956c0b8fdb6df059fb7fbf8f808d856c6e8d2713ad913c133de339be1b7da6b0f049472688f20da99c80384a45b154fb8dbed0732f0126eafe8e6947c9b6a4b00acc4fde522adb860e8ff1f541c9367eabc802770eecff6306a41853d67d43aaad0cd43125fe0cfac9ddead7c76887d679378af255adb8d24f5dcd9eae5671049f290860bb7797c9d6c50f6cc37379b735bd72c1c18c02d5e3114294757a974f077a7d4d1d1ea3091962e48792876aa189699135ea5995d5c9bb702476657e9eae19541ada674db0a6189b78c46a03a83a4fd2fac758cd4d91e3b963323d7ca666725a390408e20ef52e2ec9ce031a3e2bdde2f0f24cb21a8fc40c0d29c493e8f9922faf81bed78b15e2763cff931a47e03953c9ca52b765324c07b62a03f33c67c5221f69ef4400e38ded944797bf3956cae129068094636a821bb2cc141e4e838624fe4e481cf4c74c4e7543d273bce8c69f07d1feb83e298c5506edc3eff77b37f741ad91479e0e6009ac406727b73cad091c4390f58841cc53383e45dce162c773242327e69364c30e5677d5f5187034770b9651ce3ae51c43e6a45641b10b5ff2b42bc13139313cb982df631eecc9a3e713492015e5143f30ea659518a97a906a1429be7b99c26e3778aa4b4d252c734c84e7b56e06bc6f53a69f3d5734d0bf5727d957755eded918df7030ea4cc31d1d9bdd5c8f1d4c0595b52c780da167710a8e57af8b22512b05ba406d551fed4760471901a772e34f51fdd3479fed58185edeb2c9b50205ff55f62fd1fa73239d7d06790c93b773e37a041eeab707e558ebed5ad5b7824eb0f0b54bd328f8d17bc4908f69fa1f1b1cfa098e2d23a87d8ba630c77e0df21d9268889dea0fc1dcc3fdee0dea13ff1124da4276fb3052cf62226a610b92db583a485e7cc0cdad0ef91f29a379b01233264c8296c0038616d2b240d611c3d8abc5c1c57eb9eb64561a023a9f547095a2de0af47fed979ddbc85592540d4bc1b27fdcc76ef282c40d4f37ca7ae49352a1a18f1f33ea00fb07f0fe895aae138d081a8188ed9c0ef4652dafff2187db726b8c0196ddde8d1d6a61abf67a3a668d9dcc51d092f62da0db0ac6c040d717445ee51fac613ac2c6c0246af19e1239e464cb72e9e6a9bed0e77893019bb178df848348a6a8444531e2010d334bd2f9e6af07bdad72f38e2cc07728843aadc3cc3fe789f738d23349a77bfd1929c0c0099154933f9aaaa96c8108ef142d11ca9b89b98417c9aab38d5107903c77ff2d76587a75187634c67d1c7caf23ae5dfdaed089d3858921630ab2d31e7e232bcb05032858f835c8a3a22861d88c345ab07fb6d7848d20297e8293fce8f6d828d1e097e8662442f180090bdb3121a2bed5b6b379d5dc45a198232c5c9c05899bfb57426cbcc5a0c4a3ae13709108b9d942ffccbb95785bac684a7bb1121e23edee35e3ae46dfa63c4156466110bda0d72a4c40f52d6d441a3218441deffdb5dd63908d68e9cde30f1479b4c979f25652abb33d041cf329b2a27c7b90204ababddf9dfa10a1bd983001edeb63f6375b2fa001692e881b951d34e2566ecfaf67b4e6645e3e1eb5b7b0f8d182d17be10ae1bfa667c6f2183cbe50369f0fc4f9050726ff529f2c78e7f4b06dfc0d6623d7fed6852248f37de785110bde2ed9a234a7932083b8d759d12f1bf4f2a87569c8264caff3cbfabbf09f3a305e17a9d28d3f0a7fcd511700e03b6fdb830a7f9005f22a0743af6103fec15095d6be5c85d6b023aa206c546cea672a903ce7082019153e797e37e6cccef03516a6cc78a7ea8aa17cdb5026d2a89abb221623e0e2f413438ae405b5ef129f2b3c320293d0b137ecbefcdb318b124f86c11c24cb6d5e48be09abb0cd198c5f6f0895cffe2a5199778e5ab80c2802f43cf0f12af582fff44b78132310e03eaff3fb3945ce87debd78a1138bb869c95b61fffe7f153ba8ba4e660f1d5eed82b05f43f3235b5b4cb9a7a9bd6710caf67d96f02f752726efc39fef1f1d19749f69327e0a56ce306a7007f9d5122d8987647a35e99b47384436b67eb23ea77c8b406965e6d6b12b500df127de9cfe1cecceeeafaa99461aee436889a8cd5467911a1109084b2594d9d0aaaa7bbf36e4b453e2acad3d7851f57589960554ced2d1e1e0ddbe3f067ea0f12d36cfabf61e40bc61d69d6255d53c4f6021585ab8420ee35e450707ecdbb4c770ffcd7d952670e495553e9fa95a680f5a73ee0e8393ea2a9d3f800056beece893c57d0e1c8f68caabe1172ac54b428bde52f6a31dd9c9932f29c527f68929789cf322b9aeab20fa9475d4dd80d58fad77e351ebc27ce28930d0518297385009d69a1e293bf611dcfa69a5701e564f60cdda7a2bec1fe7be12e249a0701b57bba0cd0926795eefc01d420656d3bd177df8650727a4998c9170dd856e809ffb14b37bd2cce8bd306cc1e6d86a28ef55971d27db0b1768453af266b186d3a6214e7feb9c584c5a460b9eb833b89b1d5f8a1bdb38b275087251859e15bdd303bdb91fb9066a19d30f6c2b975cd1e070c8c4bd33635d62a24bdf0ad53b501c2c7ddeb1310bb9768b7bca94c94eeb7254ea9e289235f72e60ebf4b96674c6b95d61a371ac4c1838774097828a21f52a068bd1a218e61401ca6b28274f227a5e7a8de19e273f673edf4cee535d259ed08010f669481ed3c3dd624fb6d84e177c4128ce6c79795ee508141b76c0d748659addf08118f558167ac21b89f2ff3294b9c221ea888265fa57398e4ba012765150746db44a5bb638f9fc1f4d432b6930d10c5696cdebdfb820f44e84216cbcd2957f6da2ac8fe25333ab219f1d08a566a638876edebbf46c37f2ecd</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <tags>
+        <tag>致未来</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>排序</title>
+    <url>/2022/04/12/%E6%8E%92%E5%BA%8F/</url>
+    <content><![CDATA[<h1 id="排序">排序</h1>
+<blockquote>
+<p>导入简单设置</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> N 100</span></span><br><span class="line"><span class="comment">//q数组用作存储数据 temp作为归并排序过程中存储过程数据</span></span><br><span class="line"><span class="type">int</span> q[N],temp[N],n;</span><br></pre></td></tr></table></figure>
+</blockquote>
+<h2 id="插入排序">插入排序</h2>
+<h3 id="直接插入排序">直接插入排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//插入排序</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[i<span class="number">-1</span>])&#123;</span><br><span class="line">            tmp=q[i];</span><br><span class="line">            <span class="keyword">for</span>(j=i<span class="number">-1</span>;q[j]&gt;tmp;--j)q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">            q[j+<span class="number">1</span>]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="折半插入排序">折半插入排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//折半插入排序</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">half_insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,l,r,tmp,mid;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        tmp=q[i],l=<span class="number">0</span>,r=i<span class="number">-1</span>;</span><br><span class="line">        <span class="keyword">while</span>(l&lt;=r)&#123;</span><br><span class="line">            mid=l+r&gt;&gt;<span class="number">1</span>;</span><br><span class="line">            <span class="keyword">if</span>(q[mid]&lt;tmp)l=mid+<span class="number">1</span>;</span><br><span class="line">            <span class="keyword">else</span> r=mid<span class="number">-1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">for</span>(j=i<span class="number">-1</span>;j&gt;=l;--j)q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">        q[l]=tmp;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="希尔排序">希尔排序</h3>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//希尔排序</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">shell_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span></span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,dk,tmp;</span><br><span class="line">    <span class="keyword">for</span>(dk=n&gt;&gt;<span class="number">1</span>;dk&gt;=<span class="number">1</span>;dk&gt;&gt;=<span class="number">1</span>)&#123;</span><br><span class="line">        <span class="keyword">for</span>(i=dk;i&lt;n;++i)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]&lt;q[i-dk])&#123;</span><br><span class="line">                tmp=q[i];</span><br><span class="line">                <span class="keyword">for</span>(j=i-dk;j&gt;=<span class="number">0</span>&amp;&amp;q[j]&gt;tmp;j-=dk)</span><br><span class="line">                    q[j+dk]=q[j];</span><br><span class="line">                q[i-dk]=tmp;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="优秀的排序">优秀的排序</h2>
+<h3 id="快速排序">快速排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//快速排序 [y总排序模板]</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">quick_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> l,<span class="type">int</span> r)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp,mid;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    mid=q[l+r&gt;&gt;<span class="number">1</span>],i=l<span class="number">-1</span>,j=r+<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span>(i&lt;j)&#123;</span><br><span class="line">        <span class="keyword">do</span> i++;<span class="keyword">while</span>(q[i]&lt;mid);</span><br><span class="line">        <span class="keyword">do</span> j--;<span class="keyword">while</span>(q[j]&gt;mid);</span><br><span class="line">        <span class="keyword">if</span>(i&lt;j)&#123;</span><br><span class="line">            tmp=q[i];</span><br><span class="line">            q[i]=q[j],q[j]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    quick_sort(q,l,j), quick_sort(q,j+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="归并排序">归并排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//归并排序 [y总排序模板]</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">merge_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> l,<span class="type">int</span> r)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,mid,k;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    mid=l+r&gt;&gt;<span class="number">1</span>,i=l,j=mid+<span class="number">1</span>,k=<span class="number">0</span>;</span><br><span class="line">    merge_sort(q,l,mid), merge_sort(q,mid+<span class="number">1</span>,r);</span><br><span class="line">    <span class="keyword">while</span>(i&lt;=mid&amp;&amp;j&lt;=r)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[j])temp[k++]=q[i++];</span><br><span class="line">        <span class="keyword">else</span> temp[k++]=q[j++];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">while</span>(i&lt;=mid)temp[k++]=q[i++];</span><br><span class="line">    <span class="keyword">while</span>(j&lt;=r)temp[k++]=q[j++];</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span>(i=l,j=<span class="number">0</span>;i&lt;=r;++i,++j)q[i]=temp[j];</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="正在补充ing">正在补充ing</h2>
+<p><a
+href="https://gitee.com/NingCoder/Data_structure/blob/master/排序/sort.c">源代码文件</a></p>
+]]></content>
+      <tags>
+        <tag>数据结构</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>选择排序</title>
+    <url>/2022/04/12/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/</url>
+    <content><![CDATA[<h1 id="考研408部分排序算法">考研408部分排序算法</h1>
+<h3 id="基本设置">基本设置</h3>
+<ul>
+<li><p>文件导入</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> N 100</span></span><br><span class="line"><span class="type">int</span> q[N],n;</span><br></pre></td></tr></table></figure></li>
+<li><p>交换函数</p>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">swap</span><span class="params">(<span class="type">int</span> *x,<span class="type">int</span> *y)</span>&#123;</span><br><span class="line">    <span class="type">int</span> temp=*x;</span><br><span class="line">    *x=*y;</span><br><span class="line">    *y=temp;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
+<li><p>完整代码见文章底部</p></li>
+</ul>
+<h2 id="插入排序">插入排序</h2>
+<h3 id="直接插入排序">直接插入排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[i<span class="number">-1</span>])&#123;</span><br><span class="line">            tmp=q[i];<span class="comment">//记录数值比较小的</span></span><br><span class="line">            <span class="keyword">for</span>(j=i<span class="number">-1</span>;j&gt;=<span class="number">0</span>&amp;&amp;q[j]&gt;tmp;--j)</span><br><span class="line">                q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">            <span class="comment">//index=j+1会找到合适的</span></span><br><span class="line">            q[j+<span class="number">1</span>]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="折半插入排序">折半插入排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">half_insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp,l,r,mid;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[i<span class="number">-1</span>])&#123;</span><br><span class="line">            tmp=q[i];</span><br><span class="line">            l=<span class="number">0</span>,r=i<span class="number">-1</span>;</span><br><span class="line">            <span class="keyword">while</span>(l&lt;=r)&#123;</span><br><span class="line">                mid=(l+r)&gt;&gt;<span class="number">1</span>;</span><br><span class="line">                <span class="keyword">if</span>(q[mid]&gt;tmp)r=mid<span class="number">-1</span>;</span><br><span class="line">                <span class="keyword">else</span> l=mid+<span class="number">1</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">for</span>(j=i<span class="number">-1</span>;j&gt;=l&amp;&amp;q[j]&gt;tmp;--j)q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">            q[l]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="希尔排序">希尔排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">shell_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp,dk;</span><br><span class="line">    <span class="keyword">for</span>(dk=n&gt;&gt;<span class="number">1</span>;dk&gt;=<span class="number">1</span>;dk&gt;&gt;=<span class="number">1</span>)&#123;</span><br><span class="line">        <span class="keyword">for</span>(i=dk;i&lt;n;++i)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]&lt;q[i-dk])&#123;</span><br><span class="line">                tmp=q[i];</span><br><span class="line">                <span class="keyword">for</span>(j=i-dk;j&gt;=<span class="number">0</span>&amp;&amp;q[j]&gt;tmp;--j)</span><br><span class="line">                    q[j+dk]=q[j];</span><br><span class="line">                q[j+dk]=tmp;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="交换排序">交换排序</h2>
+<h3 id="冒泡排序">冒泡排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">bubble_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,flag=<span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">0</span>;i&lt;n<span class="number">-1</span>;++i)&#123;</span><br><span class="line">        flag=<span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span>(j=n<span class="number">-1</span>;j&gt;i;--j)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[j]&lt;q[j<span class="number">-1</span>])&#123;</span><br><span class="line">                swap(&amp;q[j],&amp;q[j<span class="number">-1</span>]);</span><br><span class="line">                flag=<span class="number">1</span>;</span><br><span class="line">            &#125;</span><br><span class="line">            <span class="keyword">if</span>(!flag) <span class="keyword">return</span> ;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="快速排序">快速排序</h3>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">quick_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> l,<span class="type">int</span> r)</span>&#123;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r)<span class="keyword">return</span> ;</span><br><span class="line">    <span class="type">int</span> i,j,x;</span><br><span class="line">    i=l<span class="number">-1</span>,j=r+<span class="number">1</span>,x=q[l+r&gt;&gt;<span class="number">1</span>];</span><br><span class="line">    <span class="keyword">while</span>(i&lt;j)&#123;</span><br><span class="line">        <span class="keyword">do</span> i++;<span class="keyword">while</span>(q[i]&lt;x);</span><br><span class="line">        <span class="keyword">do</span> j--;<span class="keyword">while</span>(q[j]&gt;x);</span><br><span class="line">        <span class="keyword">if</span>(i&lt;j)swap(&amp;q[i],&amp;q[j]);</span><br><span class="line">    &#125;</span><br><span class="line">    quick_sort(q,l,j), quick_sort(q,j+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="选择排序">选择排序</h2>
+<h3 id="简单选择排序">简单选择排序</h3>
+<h4 id="基本思路">基本思路</h4>
+<ul>
+<li>每一次选择 剩下的<span
+class="math inline">\(n-i+1\)</span>个数中最大的 或是最小的数
+插入到结果之中</li>
+<li>空间复杂度 常数级 辅助存储空间<span
+class="math inline">\(O(1)\)</span></li>
+<li>时间复杂度 移动次数 最好是0 比较次数是<span
+class="math inline">\(n(n-1)/2\)</span> 复杂度始终是<span
+class="math inline">\(O(n^2)\)</span></li>
+</ul>
+<h4 id="代码实现">代码实现</h4>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="type">void</span> <span class="title function_">select_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,idx;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">0</span>;i&lt;n<span class="number">-1</span>;++i)&#123;</span><br><span class="line">        idx=i;</span><br><span class="line">        <span class="keyword">for</span>(j=i+<span class="number">1</span>;j&lt;n;++j)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[idx]&lt;q[j])</span><br><span class="line">                idx=j;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span>(idx!=i)swap(&amp;q[idx],&amp;q[i]);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="堆排序">堆排序</h3>
+<h4 id="基本思路-1">基本思路</h4>
+<ul>
+<li>序列构建堆 我们是构建大顶堆 堆顶元素就是最大的元素</li>
+<li>堆顶元素与最后一个元素交换 剩下元素构建堆</li>
+<li>如此重复 每次会或得到一个最大值 我们放到最后一个 以此 我们会得到一个
+最大堆</li>
+<li>调整的细节 是从下往上调节 如果 下面都是小于上面的
+自然上面的就是最大的</li>
+<li>如果是从上往下调节 会导致 重复调节 影响效率</li>
+<li>时间复杂度 堆的建立<span class="math inline">\(O(n)\)</span>
+堆的排序<span class="math inline">\(O(nlog_2n)\)</span> 调整<span
+class="math inline">\(O(h)\)</span>是堆的高度</li>
+<li>空间复杂度 依靠常数级别空间 存储中间变量为 <span
+class="math inline">\(O(1)\)</span></li>
+</ul>
+<h4 id="代码实现-1">代码实现</h4>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="comment">//大顶堆的构建</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">largest_heap</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> start,<span class="type">int</span> end)</span>&#123;</span><br><span class="line">    <span class="type">int</span> dad,son;</span><br><span class="line">    dad=start,son=dad*<span class="number">2</span>+<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span>(son&lt;=end)&#123;</span><br><span class="line">        <span class="keyword">if</span>(son+<span class="number">1</span>&lt;=end&amp;&amp;q[son]&lt;q[son+<span class="number">1</span>])son++;</span><br><span class="line">        <span class="keyword">if</span>(q[dad]&gt;q[son]) <span class="keyword">return</span> ;</span><br><span class="line">        <span class="keyword">else</span>&#123;</span><br><span class="line">            swap(&amp;q[son],&amp;q[dad]);</span><br><span class="line">            dad=son,son=dad*<span class="number">2</span>+<span class="number">1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// 堆排序的实现过程</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">heap_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i;</span><br><span class="line">    <span class="keyword">for</span>(i=(n&gt;&gt;<span class="number">1</span>)<span class="number">-1</span>;i&gt;=<span class="number">0</span>;--i)</span><br><span class="line">        largest_heap(q,i,n<span class="number">-1</span>);</span><br><span class="line">    <span class="keyword">for</span>(i=n<span class="number">-1</span>;i&gt;<span class="number">0</span>;--i)&#123;</span><br><span class="line">        swap(&amp;q[<span class="number">0</span>],&amp;q[i]);</span><br><span class="line">        largest_heap(q,<span class="number">0</span>,i<span class="number">-1</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="正在更新ing">正在更新ing</h2>
+<p><a
+href="https://gitee.com/NingCoder/Data_structure/blob/master/排序/sort01.c">源代码地址</a></p>
+]]></content>
+      <tags>
+        <tag>数据结构与算法</tag>
+      </tags>
+  </entry>
+</search>
