@@ -134,17 +134,17 @@
   </li>
         <li class="menu-item menu-item-tags">
 
-    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">6</span></a>
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签<span class="badge">8</span></a>
 
   </li>
         <li class="menu-item menu-item-categories">
 
-    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">0</span></a>
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类<span class="badge">5</span></a>
 
   </li>
         <li class="menu-item menu-item-archives">
 
-    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">6</span></a>
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档<span class="badge">5</span></a>
 
   </li>
         <li class="menu-item menu-item-commonweal">
@@ -200,7 +200,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://csnote.top/2022/04/12/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/">
+    <link itemprop="mainEntityOfPage" href="https://csnote.top/2022/04/12/%E6%8E%92%E5%BA%8F/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/%E5%AE%81%E4%B8%80%E8%BF%9C.jpg">
@@ -214,7 +214,7 @@
       <header class="post-header">
         <h2 class="post-title" itemprop="name headline">
           
-            <a href="/2022/04/12/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/" class="post-title-link" itemprop="url">选择排序</a>
+            <a href="/2022/04/12/%E6%8E%92%E5%BA%8F/" class="post-title-link" itemprop="url">排序</a>
         </h2>
 
         <div class="post-meta">
@@ -231,8 +231,17 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:10:31" itemprop="dateModified" datetime="2022-04-17T17:10:31+08:00">2022-04-17</time>
+                <time title="修改时间：2022-04-18 16:08:46" itemprop="dateModified" datetime="2022-04-18T16:08:46+08:00">2022-04-18</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/" itemprop="url" rel="index"><span itemprop="name">数据结构与算法</span></a>
+                </span>
+            </span>
 
           
 
@@ -322,91 +331,6 @@ target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://csnote.top/2022/04/12/%E6%8E%92%E5%BA%8F/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/%E5%AE%81%E4%B8%80%E8%BF%9C.jpg">
-      <meta itemprop="name" content="小孩">
-      <meta itemprop="description" content="热爱生活">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="宁の情感生活">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/2022/04/12/%E6%8E%92%E5%BA%8F/" class="post-title-link" itemprop="url">排序</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2022-04-12 16:50:43" itemprop="dateCreated datePublished" datetime="2022-04-12T16:50:43+08:00">2022-04-12</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:10:28" itemprop="dateModified" datetime="2022-04-17T17:10:28+08:00">2022-04-17</time>
-              </span>
-
-          
-
-        </div>
-      </header>
-
-    
-    
-    
-
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="排序">排序</h1>
-<blockquote>
-<p>导入简单设置</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="keyword">define</span> N 100</span></span><br><span class="line"><span class="comment">//q数组用作存储数据 temp作为归并排序过程中存储过程数据</span></span><br><span class="line"><span class="type">int</span> q[N],temp[N],n;</span><br></pre></td></tr></table></figure>
-</blockquote>
-<h2 id="插入排序">插入排序</h2>
-<h3 id="直接插入排序">直接插入排序</h3>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//插入排序</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[i<span class="number">-1</span>])&#123;</span><br><span class="line">            tmp=q[i];</span><br><span class="line">            <span class="keyword">for</span>(j=i<span class="number">-1</span>;q[j]&gt;tmp;--j)q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">            q[j+<span class="number">1</span>]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="折半插入排序">折半插入排序</h3>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//折半插入排序</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">half_insert_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,l,r,tmp,mid;</span><br><span class="line">    <span class="keyword">for</span>(i=<span class="number">1</span>;i&lt;n;++i)&#123;</span><br><span class="line">        tmp=q[i],l=<span class="number">0</span>,r=i<span class="number">-1</span>;</span><br><span class="line">        <span class="keyword">while</span>(l&lt;=r)&#123;</span><br><span class="line">            mid=l+r&gt;&gt;<span class="number">1</span>;</span><br><span class="line">            <span class="keyword">if</span>(q[mid]&lt;tmp)l=mid+<span class="number">1</span>;</span><br><span class="line">            <span class="keyword">else</span> r=mid<span class="number">-1</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">for</span>(j=i<span class="number">-1</span>;j&gt;=l;--j)q[j+<span class="number">1</span>]=q[j];</span><br><span class="line">        q[l]=tmp;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="希尔排序">希尔排序</h3>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//希尔排序</span></span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">shell_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> n)</span></span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,dk,tmp;</span><br><span class="line">    <span class="keyword">for</span>(dk=n&gt;&gt;<span class="number">1</span>;dk&gt;=<span class="number">1</span>;dk&gt;&gt;=<span class="number">1</span>)&#123;</span><br><span class="line">        <span class="keyword">for</span>(i=dk;i&lt;n;++i)&#123;</span><br><span class="line">            <span class="keyword">if</span>(q[i]&lt;q[i-dk])&#123;</span><br><span class="line">                tmp=q[i];</span><br><span class="line">                <span class="keyword">for</span>(j=i-dk;j&gt;=<span class="number">0</span>&amp;&amp;q[j]&gt;tmp;j-=dk)</span><br><span class="line">                    q[j+dk]=q[j];</span><br><span class="line">                q[i-dk]=tmp;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="优秀的排序">优秀的排序</h2>
-<h3 id="快速排序">快速排序</h3>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//快速排序 [y总排序模板]</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">quick_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> l,<span class="type">int</span> r)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,tmp,mid;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    mid=q[l+r&gt;&gt;<span class="number">1</span>],i=l<span class="number">-1</span>,j=r+<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span>(i&lt;j)&#123;</span><br><span class="line">        <span class="keyword">do</span> i++;<span class="keyword">while</span>(q[i]&lt;mid);</span><br><span class="line">        <span class="keyword">do</span> j--;<span class="keyword">while</span>(q[j]&gt;mid);</span><br><span class="line">        <span class="keyword">if</span>(i&lt;j)&#123;</span><br><span class="line">            tmp=q[i];</span><br><span class="line">            q[i]=q[j],q[j]=tmp;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    quick_sort(q,l,j), quick_sort(q,j+<span class="number">1</span>,r);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h3 id="归并排序">归并排序</h3>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//归并排序 [y总排序模板]</span></span><br><span class="line"><span class="type">void</span> <span class="title function_">merge_sort</span><span class="params">(<span class="type">int</span> q[],<span class="type">int</span> l,<span class="type">int</span> r)</span>&#123;</span><br><span class="line">    <span class="type">int</span> i,j,mid,k;</span><br><span class="line">    <span class="keyword">if</span>(l&gt;=r) <span class="keyword">return</span> ;</span><br><span class="line">    mid=l+r&gt;&gt;<span class="number">1</span>,i=l,j=mid+<span class="number">1</span>,k=<span class="number">0</span>;</span><br><span class="line">    merge_sort(q,l,mid), merge_sort(q,mid+<span class="number">1</span>,r);</span><br><span class="line">    <span class="keyword">while</span>(i&lt;=mid&amp;&amp;j&lt;=r)&#123;</span><br><span class="line">        <span class="keyword">if</span>(q[i]&lt;q[j])temp[k++]=q[i++];</span><br><span class="line">        <span class="keyword">else</span> temp[k++]=q[j++];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">while</span>(i&lt;=mid)temp[k++]=q[i++];</span><br><span class="line">    <span class="keyword">while</span>(j&lt;=r)temp[k++]=q[j++];</span><br><span class="line"></span><br><span class="line">    <span class="keyword">for</span>(i=l,j=<span class="number">0</span>;i&lt;=r;++i,++j)q[i]=temp[j];</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="正在补充ing">正在补充ing</h2>
-<p><a
-target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/blob/master/排序/sort.c">源代码文件</a></p>
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://csnote.top/2022/04/11/%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -438,8 +362,17 @@ target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:10:40" itemprop="dateModified" datetime="2022-04-17T17:10:40+08:00">2022-04-17</time>
+                <time title="修改时间：2022-04-18 16:09:14" itemprop="dateModified" datetime="2022-04-18T16:09:14+08:00">2022-04-18</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%BF%91%E6%9C%9F%E6%80%BB%E7%BB%93/" itemprop="url" rel="index"><span itemprop="name">近期总结</span></a>
+                </span>
+            </span>
 
           
 
@@ -556,8 +489,17 @@ target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:10:16" itemprop="dateModified" datetime="2022-04-17T17:10:16+08:00">2022-04-17</time>
+                <time title="修改时间：2022-04-18 16:09:46" itemprop="dateModified" datetime="2022-04-18T16:09:46+08:00">2022-04-18</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%87%B4%E6%9C%AA%E6%9D%A5/" itemprop="url" rel="index"><span itemprop="name">致未来</span></a>
+                </span>
+            </span>
 
           
 
@@ -629,8 +571,17 @@ target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:22:07" itemprop="dateModified" datetime="2022-04-17T17:22:07+08:00">2022-04-17</time>
+                <time title="修改时间：2022-04-18 16:06:57" itemprop="dateModified" datetime="2022-04-18T16:06:57+08:00">2022-04-18</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%8E%A8%E5%B9%BF/" itemprop="url" rel="index"><span itemprop="name">推广</span></a>
+                </span>
+            </span>
 
           
 
@@ -645,9 +596,12 @@ target="_blank" rel="noopener" href="https://gitee.com/NingCoder/Data_structure/
 
       
           <h1 id="年轻人的社交元宇宙">年轻人的社交元宇宙</h1>
-<p><a target="_blank" rel="noopener" href="https://www.soulapp.cn/home">小站</a> ## 我们的口号 1.
-“还孤单一个人吗，快来soul银河寻找那个TA” 2.
-不约不恋不看脸，我们就单纯的聊聊天吧”</p>
+<p><a target="_blank" rel="noopener" href="https://www.soulapp.cn/home">小站</a></p>
+<h2 id="我们的口号">我们的口号</h2>
+<ol type="1">
+<li>“还孤单一个人吗，快来soul银河寻找那个TA”</li>
+<li>不约不恋不看脸，我们就单纯的聊聊天吧”</li>
+</ol>
 <h2 id="功能介绍">功能介绍</h2>
 <ol type="1">
 <li>瞬间广场——用户可以通过瞬间功能发表文字. 图片.
@@ -740,8 +694,17 @@ App陆续在各大安卓应用商店重新上架，各项功能均可以正常�
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2022-04-17 17:10:44" itemprop="dateModified" datetime="2022-04-17T17:10:44+08:00">2022-04-17</time>
+                <time title="修改时间：2022-04-18 16:07:11" itemprop="dateModified" datetime="2022-04-18T16:07:11+08:00">2022-04-18</time>
               </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E6%B5%8B%E8%AF%95/" itemprop="url" rel="index"><span itemprop="name">测试</span></a>
+                </span>
+            </span>
 
           
 
@@ -861,13 +824,21 @@ target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">6</span>
+          <span class="site-state-item-count">5</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
       <div class="site-state-item site-state-tags">
-        <span class="site-state-item-count">6</span>
-        <span class="site-state-item-name">标签</span>
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
 </div>
